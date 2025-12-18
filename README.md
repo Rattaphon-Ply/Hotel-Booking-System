@@ -20,6 +20,7 @@ A hotel booking system built for learning purposes. Users can search for rooms, 
 - React.js
 - Shad CN / Material UI / Tailwind CSS
 - Axios
+- Zustand
 - React Router
 
 **Backend**
